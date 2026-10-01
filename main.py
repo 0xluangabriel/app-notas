@@ -114,5 +114,4 @@ while True:
     else:
         print('Opção/Entrada errada.')
         input('\nAperte Enter para voltar ao menu...')
-
 #------------------------------------------------------------------
